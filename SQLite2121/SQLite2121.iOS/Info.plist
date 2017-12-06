@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>SQLite2121</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.SQLite2121</string>
+	<string>jp.jc21.SQLite2121</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
