@@ -12,7 +12,7 @@ namespace SQLite11
     public class UserModel
     {
         //プライマリキー　自動採番されます
-        [PrimaryKey, AutoIncrement, Column("_id")]
+        [PrimaryKey, AutoIncrement, Column("_id")]//
         //idカラム
         public int Id { get; set; }
         //名前カラム
